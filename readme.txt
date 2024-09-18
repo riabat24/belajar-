@@ -1,0 +1,10 @@
+#Hello World!
+apa kabar, GIT!
+
+## Kesan dan Pesan 
+kesannya sangat menanjubkan shaayyy, untuk pesannya semoga bisa dapat nilai bagus
+
+! [Alt text] (https://media.tenor.com/TYQgFC-sKZoAAAAM/haha-laugh.gif)
+
+## Harapan saya
+bisa mendapat ilmunya sehingga menambah skil
